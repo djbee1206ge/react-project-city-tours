@@ -8,10 +8,11 @@ $mainBlack: #222;
 $mainGreen: #82b340;
 $mainWhite: #fff;
 $mainGrey: #ececec;
+$mainLightBlue: rgb(195, 253, 255);
 $mainTransition: all 250ms linear;
 
 body {
   font-family: "Open Sans", sans-serif;
-  background: $mainWhite;
+  background: $mainLightBlue;
   color: $mainBlack;
 }
